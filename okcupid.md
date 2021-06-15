@@ -22,8 +22,8 @@ Methods
 - After fitting the data into 12 clusters, the 10 most common words from each cluster were found and a venn diagram was created to determine overlap between clusters
 - The distribution of the 10 most common words from all clusters was then plotted as a heatmap to determine which words were present in most clusters and which words were more rare
 
-Results
--------
+Results Summary
+---------------
 - The words "love", "good" and "really" are among the top 10 in all 12 clusters
 - Some clusters have substantial overlap and share up to 7 of their top 10 words, while others contain up to three unique words
 - For example:

@@ -27,8 +27,8 @@ there are many very valid questions surrounding this issue, I wanted to explore 
 * Are unarmed individuals of certain ages more likely to be killed?
 * Is an individual more likely to be killed at a certain age based on location?
 
-Results
--------
+Results Summary
+---------------
 * The type of weapon a victim has in their possession is 
 correlated with their age. 
 * Being unarmed is inversely 
@@ -51,6 +51,9 @@ Next Steps
 * It would be informative to compare the distributions of victims' ages in the various states with the distributions
 of the ages and races of the inhabitants of those states. Are they similar?
 
+
+Analysis
+--------
 ### Import libraries
 
 
