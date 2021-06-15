@@ -1288,7 +1288,7 @@ Let's try to determine the correlation between age and state alone, but filter f
 * We'll remove data from any states that have less than 50 shootings
 * This is because when you're performing correlation tests on a sample where n = 50, you're likely to observe a correlation between -0.18 and 0.18 (not necessarily 0, but approaching 0) about 80% of the time when the correlation is actually 0. *BUT* the other 20% of the time, you'll get a correlation that is either > 0.18 or < -0.18.
 * When you decrease n to 25, the 80% confidence interval for correlation increases to a range of -0.25 to 0.26
-* |0.26| is far greater than the r2 score we got for our complete linear regression model, so it would be imprudent to work with that level of imprecision.
+* \|0.26\| is far greater than the r2 score we got for our complete linear regression model, so it would be imprudent to work with that level of imprecision.
 * Increasing n to 100 would only decrease the 80% confidence interval for correlation to a range of -0.13 to 0.13, and we only have 13 states where >= 100 shootings occurred
 * Therefore, using a cutoff of 50 will allow us to use the majority of the dataset in the analysis and to decrease the likelihood that we achieve significance by chance.
 
