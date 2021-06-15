@@ -22,22 +22,22 @@ subtitle:
 **2020-02 - Current**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;**Research Associate and Project Manager** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;*Simon Fraser University, Burnaby, BC*
-&nbsp;&nbsp;&nbsp;&nbsp;- Developing machine learning software in Python and R to automatically detect outliers in longitudinal data using multiple statistics strategies.
-&nbsp;&nbsp;&nbsp;&nbsp;- Troubleshooting problems using a breadth of computational and statistical knowledge for implementation of best practices.
-&nbsp;&nbsp;&nbsp;&nbsp;- Managing the Canadian COVID-19 Genomics Network (CanCOGeN) virus sequencing initiative by effectively resolving issues, diminishing obstacles and saving time.
+- Developing machine learning software in Python and R to automatically detect outliers in longitudinal data using multiple statistics strategies.
+- Troubleshooting problems using a breadth of computational and statistical knowledge for implementation of best practices.
+- Managing the Canadian COVID-19 Genomics Network (CanCOGeN) virus sequencing initiative by effectively resolving issues, diminishing obstacles and saving time.
 
 **2019-02 - 2019-09**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;**Research Scientist** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;*IMV Inc., Dartmouth, NS*
-&nbsp;&nbsp;&nbsp;&nbsp;- Analyzed gene expression data from clinical trial participants and produced actionable insights for drug mechanism of action.
-&nbsp;&nbsp;&nbsp;&nbsp;- Led team of 5-6 research associates in vaccine development projects and successfully met all key milestones.
+- Analyzed gene expression data from clinical trial participants and produced actionable insights for drug mechanism of action.
+- Led team of 5-6 research associates in vaccine development projects and successfully met all key milestones.
 
 **2014-01 - 2018-04**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;**Research Associate and Bioinformatics Program Manager** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;*R.E.W. Hancock Lab, University of British Columbia, Vancouver, BC*
-&nbsp;&nbsp;&nbsp;&nbsp;- Supervised bioinformatics and RNA-Seq programs and maintained international collaborations.
-&nbsp;&nbsp;&nbsp;&nbsp;- Built and improved strategies for breaking down and analyzing complex data.
-&nbsp;&nbsp;&nbsp;&nbsp;- Utilized machine learning approaches to identify sets of genes driving disease etiology.
+- Supervised bioinformatics and RNA-Seq programs and maintained international collaborations.
+- Built and improved strategies for breaking down and analyzing complex data.
+- Utilized machine learning approaches to identify sets of genes driving disease etiology.
 
 ## Education
 ---
@@ -57,4 +57,4 @@ subtitle:
 
 ## Tech Community Outreach
 ---
-&nbsp;&nbsp;&nbsp;&nbsp;I co-lead an online coding group to bring together programmers with different levels of experience. View the group [here](https://community.codecademy.com/vancouver-code-projects/). 
+I co-lead an online coding group to bring together programmers with different levels of experience. View the group [here](https://community.codecademy.com/vancouver-code-projects/). 
