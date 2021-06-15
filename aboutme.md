@@ -19,34 +19,34 @@ subtitle:
 ---
 
 2020-02 - Current
-> **Research Associate and Project Manager** <br>
-> *Simon Fraser University, Burnaby, BC*
-> - Developing machine learning software in Python and R to automatically detect outliers in longitudinal data using multiple statistics strategies.
-> - Troubleshooting problems using a breadth of computational and statistical knowledge for implementation of best practices.
-> - Managing the Canadian COVID-19 Genomics Network (CanCOGeN) virus sequencing initiative by effectively resolving issues, diminishing obstacles and saving time.
+>> **Research Associate and Project Manager** <br>
+>> *Simon Fraser University, Burnaby, BC*
+>> - Developing machine learning software in Python and R to automatically detect outliers in longitudinal data using multiple statistics strategies.
+>> - Troubleshooting problems using a breadth of computational and statistical knowledge for implementation of best practices.
+>> - Managing the Canadian COVID-19 Genomics Network (CanCOGeN) virus sequencing initiative by effectively resolving issues, diminishing obstacles and saving time.
 
 2019-02 - 2019-09
-> **Research Scientist** <br>
-> *IMV Inc., Dartmouth, NS*
-> - Analyzed gene expression data from clinical trial participants and produced actionable insights for drug mechanism of action.
-> - Led team of 5-6 research associates in vaccine development projects and successfully met all key milestones.
+>> **Research Scientist** <br>
+>> *IMV Inc., Dartmouth, NS*
+>> - Analyzed gene expression data from clinical trial participants and produced actionable insights for drug mechanism of action.
+>> - Led team of 5-6 research associates in vaccine development projects and successfully met all key milestones.
 
 2014-01 - 2018-04
-> **Research Associate and Bioinformatics Program Manager** <br>
-> *R.E.W. Hancock Lab, University of British Columbia, Vancouver, BC*
-> - Supervised bioinformatics and RNA-Seq programs and maintained international collaborations.
-> - Built and improved strategies for breaking down and analyzing complex data.
-> - Utilized machine learning approaches to identify sets of genes driving disease etiology.
+>> **Research Associate and Bioinformatics Program Manager** <br>
+>> *R.E.W. Hancock Lab, University of British Columbia, Vancouver, BC*
+>> - Supervised bioinformatics and RNA-Seq programs and maintained international collaborations.
+>> - Built and improved strategies for breaking down and analyzing complex data.
+>> - Utilized machine learning approaches to identify sets of genes driving disease etiology.
 
 ## Education
 ---
 2004-09 - 2009-03
-> **Doctor of Philosophy: Genetics** <br>
-> *University of British Columbia - Vancouver, BC*
+>> **Doctor of Philosophy: Genetics** <br>
+>> *University of British Columbia - Vancouver, BC*
 
 1999-09 - 2004-04
-> **Bachelor of Science: Biochemistry and Molecular Biology** <br>
-> *Dalhousie University - Halifax, NS*
+>> **Bachelor of Science: Biochemistry and Molecular Biology** <br>
+>> *Dalhousie University - Halifax, NS*
 
 ## Certificates
 ---
