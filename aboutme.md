@@ -54,3 +54,7 @@ subtitle:
 2021-05
 > **Codecademy Data Scientist Career Path** <br>
 > [certificate](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Ecodecademy%2Ecom%2Fprofiles%2FmakemyDNA%2Fcertificates%2F5b520caa1d176d21f5a65a61&urlhash=Hv13&trk=public_profile-settings_see-credential)
+
+## Tech Community Outreach
+---
+> I co-lead an online coding group to bring together programmers with different levels of experience. View the group [here](https://community.codecademy.com/vancouver-code-projects/). 
