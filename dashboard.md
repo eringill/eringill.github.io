@@ -17,7 +17,9 @@ The motivation for the original dashboard was to create something that users cou
 
 The dashboard displays live graphs and charts of Canadian COVID-19 case and vaccination data.
 
+![dashboard home page](/assets/img/dashboard.png "Dashboard home page")
+
 View the Project
 ----------------
-- You can view the dashboard itself at (https://canadacoviddashboard.herokuapp.com/)
-- You can view the source code at (https://github.com/eringill/COVID_dashboard_reboot)
+- You can view the dashboard itself at [https://canadacoviddashboard.herokuapp.com/](https://canadacoviddashboard.herokuapp.com/)
+- You can view the source code at [https://github.com/eringill/COVID_dashboard_reboot](https://github.com/eringill/COVID_dashboard_reboot)

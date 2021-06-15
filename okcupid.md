@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Natural Language Processing and Clustering Analysis of OK Cupid Profile Data
+title: Natural Language Processing of OK Cupid Profile Data
 subtitle: 
 ---
 Data Source
