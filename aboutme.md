@@ -25,15 +25,13 @@ subtitle:
 - Developing machine learning software in Python and R to automatically detect outliers in longitudinal data using multiple statistics strategies.
 - Troubleshooting problems using a breadth of computational and statistical knowledge for implementation of best practices.
 - Managing the Canadian COVID-19 Genomics Network (CanCOGeN) virus sequencing initiative by effectively resolving issues, diminishing obstacles and saving time.<br>
+
 **Languages / Frameworks**
 :fa-python: Python
 :fa-r-project: R
-### <i class="fas fa-html5" aria-hidden="true"></i> HTML
-{: #HTML}
-### <i class="fas fa-css3-alt" aria-hidden="true"></i> CSS
-{: #CSS}
-### <i class="fas fa-markdown" aria-hidden="true"></i> Markdown
-{: #Markdown}
+<i class="fas fa-html5" aria-hidden="true"></i> HTML
+<i class="fas fa-css3-alt" aria-hidden="true"></i> CSS
+<i class="fas fa-markdown" aria-hidden="true"></i> Markdown
 **Anaconda, Bokeh, Bootstrap, Flask, ggplot2, Heroku, Jupyter Notebook, Matplotlib, Numpy, Pandas, Plotly, Seaborn, Sklearn**
 
 
