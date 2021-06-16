@@ -43,16 +43,16 @@ subtitle:
 
 - **Gill EE**, Brinkman FS. [The proportional lack of archaeal pathogens: Do viruses/phages hold the key?](https://pubmed.ncbi.nlm.nih.gov/21328413/). Bioessays. 2011 Apr;33(4):248-54. doi: 10.1002/bies.201000091. Epub 2011 Feb 15. PubMed PMID: 21328413; PubMed Central PMCID: PMC3504072.
 
-- Lee RC, **Gill EE**, Roy SW, Fast NM. Constrained intron structures in a microsporidian. Mol Biol Evol. 2010 Sep;27(9):1979-82. doi: 10.1093/molbev/msq087. Epub 2010 Apr 1. PubMed PMID: 20360213; PubMed Central PMCID: PMC3809491.
+- Lee RC, **Gill EE**, Roy SW, Fast NM. [Constrained intron structures in a microsporidian](https://pubmed.ncbi.nlm.nih.gov/20360213/). Mol Biol Evol. 2010 Sep;27(9):1979-82. doi: 10.1093/molbev/msq087. Epub 2010 Apr 1. PubMed PMID: 20360213; PubMed Central PMCID: PMC3809491.
 
-- **Gill EE**, Lee RC, Corradi N, Grisdale CJ, Limpright VO, Keeling PJ, Fast NM. Splicing and transcription differ between spore and intracellular life stages in the parasitic microsporidia. Mol Biol Evol. 2010 Jul;27(7):1579-84. doi: 10.1093/molbev/msq050. Epub 2010 Feb 18. PubMed PMID: 20167610.
+- **Gill EE**, Lee RC, Corradi N, Grisdale CJ, Limpright VO, Keeling PJ, Fast NM. [Splicing and transcription differ between spore and intracellular life stages in the parasitic microsporidia](https://pubmed.ncbi.nlm.nih.gov/20167610/). Mol Biol Evol. 2010 Jul;27(7):1579-84. doi: 10.1093/molbev/msq050. Epub 2010 Feb 18. PubMed PMID: 20167610.
 
-- **Gill EE**, Becnel JJ, Fast NM. ESTs from the microsporidian Edhazardia aedis. BMC Genomics. 2008 Jun 20;9:296. doi: 10.1186/1471-2164-9-296. PubMed PMID: 18570666; PubMed Central PMCID: PMC2474625.
+- **Gill EE**, Becnel JJ, Fast NM. [ESTs from the microsporidian Edhazardia aedis. BMC Genomics](https://pubmed.ncbi.nlm.nih.gov/18570666/). 2008 Jun 20;9:296. doi: 10.1186/1471-2164-9-296. PubMed PMID: 18570666; PubMed Central PMCID: PMC2474625.
 
-- **Gill EE**, Diaz-Triviño S, Barberà MJ, Silberman JD, Stechmann A, Gaston D, Tamas I, Roger AJ. Novel mitochondrion-related organelles in the anaerobic amoeba Mastigamoeba balamuthi. Mol Microbiol. 2007 Dec;66(6):1306-20. doi: 10.1111/j.1365-2958.2007.05979.x. PubMed PMID: 18045382.
+- **Gill EE**, Diaz-Triviño S, Barberà MJ, Silberman JD, Stechmann A, Gaston D, Tamas I, Roger AJ. [Novel mitochondrion-related organelles in the anaerobic amoeba Mastigamoeba balamuthi](https://pubmed.ncbi.nlm.nih.gov/18045382/). Mol Microbiol. 2007 Dec;66(6):1306-20. doi: 10.1111/j.1365-2958.2007.05979.x. PubMed PMID: 18045382.
 
-- **Gill EE**, Fast NM. Stripped-down DNA repair in a highly reduced parasite. BMC Mol Biol. 2007 Mar 20;8:24. doi: 10.1186/1471-2199-8-24. PubMed PMID: 17374165; PubMed Central PMCID: PMC1851970.
+- **Gill EE**, Fast NM. [Stripped-down DNA repair in a highly reduced parasite](https://pubmed.ncbi.nlm.nih.gov/17374165/). BMC Mol Biol. 2007 Mar 20;8:24. doi: 10.1186/1471-2199-8-24. PubMed PMID: 17374165; PubMed Central PMCID: PMC1851970.
 
-- **Gill EE**, Fast NM. Assessing the microsporidia-fungi relationship: Combined phylogenetic analysis of eight genes. Gene. 2006 Jun 21;375:103-9. doi: 10.1016/j.gene.2006.02.023. Epub 2006 Mar 20. PubMed PMID: 16626896.
+- **Gill EE**, Fast NM. [Assessing the microsporidia-fungi relationship: Combined phylogenetic analysis of eight genes](https://pubmed.ncbi.nlm.nih.gov/16626896/). Gene. 2006 Jun 21;375:103-9. doi: 10.1016/j.gene.2006.02.023. Epub 2006 Mar 20. PubMed PMID: 16626896.
 
-- Simpson AG, **Gill EE**, Callahan HA, Litaker RW, Roger AJ. Early evolution within kinetoplastids (euglenozoa), and the late emergence of trypanosomatids. Protist. 2004 Dec;155(4):407-22. doi: 10.1078/1434461042650389. PubMed PMID: 15648721.
+- Simpson AG, **Gill EE**, Callahan HA, Litaker RW, Roger AJ. [Early evolution within kinetoplastids (euglenozoa), and the late emergence of trypanosomatids](https://pubmed.ncbi.nlm.nih.gov/15648721/). Protist. 2004 Dec;155(4):407-22. doi: 10.1078/1434461042650389. PubMed PMID: 15648721.
