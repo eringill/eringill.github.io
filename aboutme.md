@@ -9,7 +9,7 @@ subtitle:
 
 | <!-- -->    | <!-- -->    | <!-- -->    |
 |-------------|-------------|-------------|
-|**Anaconda** <br> 3 years|**Bokeh** <br> 1 year|**Bootstrap** <br> 1 year|
+|**Anaconda** <br> 4 years|**Bokeh** <br> 1 year|**Bootstrap** <br> 1 year|
 |**CSS** <br> 2 years|**Data Visualization** <br> 7 years|**Flask** <br> 1 year|
 |**HTML** <br> 2 years|**Jupyter Notebook** <br> 3 years|**Machine Learning** <br> 4 years|
 |**Matplotlib** <br> 3 years|**Numpy** <br> 3 years|**Pandas** <br> 3 years|
@@ -36,7 +36,7 @@ subtitle:
 {: #CSS}
 ### <i class="fas fa-markdown" aria-hidden="true"></i> Markdown
 {: #Markdown}
-**Bootstrap, Flask, ggplot2, Heroku, Jupyter Notebook, Matplotlib, Numpy, Pandas, Plotly, Seaborn, Sklearn**
+**Anaconda, Bokeh, Bootstrap, Flask, ggplot2, Heroku, Jupyter Notebook, Matplotlib, Numpy, Pandas, Plotly, Seaborn, Sklearn**
 
 
 **2019-02 - 2019-09**<br>
@@ -51,7 +51,7 @@ subtitle:
 {: #Python}
 ### <i class="fas fa-ubuntu" aria-hidden="true"></i> Ubuntu
 {: #Ubuntu}
-**Bash, Bioconductor, ggplot2**  
+**Anaconda, Bash, Bioconductor, ggplot2**  
 
 **2014-01 - 2018-04**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;**Research Associate and Bioinformatics Program Manager** <br>
@@ -67,7 +67,7 @@ subtitle:
 {: #Python}
 ### <i class="fas fa-ubuntu" aria-hidden="true"></i> Ubuntu
 {: #Ubuntu}
-**Bash, Bioconductor, Caret, ggplot2**  
+**Anaconda, Bash, Bioconductor, Caret, ggplot2**  
 
 ## Education
 ---
