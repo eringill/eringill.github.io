@@ -14,13 +14,14 @@ author: Erin Gill
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Home: "index"
   About Me: "aboutme"
   Projects:
     - Canada COVID-19 Dashboard: "dashboard"
     - NLP Analysis of OK Cupid Profiles: "okcupid"
+    - Factors Correlated with Age in US Police Shootings: "age"
     - Automated Outlier Detection: "outlierdetection"
     - Data Skew Analysis: "dataskew"
-    - Factors Correlated with Age in US Police Shootings: "age"
   Publications: "publications"
 
 # --- Logo --- #

@@ -25,12 +25,33 @@ subtitle:
 - Developing machine learning software in Python and R to automatically detect outliers in longitudinal data using multiple statistics strategies.
 - Troubleshooting problems using a breadth of computational and statistical knowledge for implementation of best practices.
 - Managing the Canadian COVID-19 Genomics Network (CanCOGeN) virus sequencing initiative by effectively resolving issues, diminishing obstacles and saving time.
+**Languages / Frameworks**
+### <i class="fas fa-python" aria-hidden="true"></i> Python
+{: #Python}
+### <i class="fas fa-r-project" aria-hidden="true"></i> R
+{: #R}
+### <i class="fas fa-html5" aria-hidden="true"></i> HTML
+{: #HTML}
+### <i class="fas fa-css3-alt" aria-hidden="true"></i> CSS
+{: #CSS}
+### <i class="fas fa-markdown" aria-hidden="true"></i> Markdown
+{: #Markdown}
+**Bootstrap, Flask, ggplot2, Heroku, Jupyter Notebook, Matplotlib, Numpy, Pandas, Plotly, Seaborn, Sklearn**
+
 
 **2019-02 - 2019-09**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;**Research Scientist** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;*IMV Inc., Dartmouth, NS*
 - Analyzed gene expression data from clinical trial participants and produced actionable insights for drug mechanism of action.
 - Led team of 5-6 research associates in vaccine development projects and successfully met all key milestones.
+**Languages / Frameworks**
+### <i class="fas fa-r-project" aria-hidden="true"></i> R
+{: #R}
+### <i class="fas fa-python" aria-hidden="true"></i> Python
+{: #Python}
+### <i class="fas fa-ubuntu" aria-hidden="true"></i> Ubuntu
+{: #Ubuntu}
+**Bash, Bioconductor, ggplot2**  
 
 **2014-01 - 2018-04**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;**Research Associate and Bioinformatics Program Manager** <br>
@@ -39,6 +60,14 @@ subtitle:
 - Built and improved strategies for breaking down and analyzing complex data.
 - Utilized machine learning approaches to identify sets of genes driving disease etiology.
 - Conceived and coded a novel algorithm to discern gene expression signatures associated with two different diseases that have overlapping clinical presentations (this work has been [published](https://pubmed.ncbi.nlm.nih.gov/33692808/)) 
+**Languages / Frameworks**
+### <i class="fas fa-r-project" aria-hidden="true"></i> R
+{: #R}
+### <i class="fas fa-python" aria-hidden="true"></i> Python
+{: #Python}
+### <i class="fas fa-ubuntu" aria-hidden="true"></i> Ubuntu
+{: #Ubuntu}
+**Bash, Bioconductor, Caret, ggplot2**  
 
 ## Education
 ---
