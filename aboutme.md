@@ -19,7 +19,7 @@ subtitle:
 ## Work History
 ---
 
-#### 2020-02 - Current
+### 2020-02 - Current
 &nbsp;&nbsp;&nbsp;&nbsp;**Research Associate and Project Manager** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;*Simon Fraser University, Burnaby, BC*
 - Developing machine learning software in Python and R to automatically detect outliers in longitudinal data using multiple statistics strategies.
@@ -29,13 +29,13 @@ subtitle:
 **Languages / Frameworks**
 :fa-python: Python
 :fa-r-project: R
-<i class="fas fa-html5" aria-hidden="true"></i> HTML
-<i class="fas fa-css3-alt" aria-hidden="true"></i> CSS
-<i class="fas fa-markdown" aria-hidden="true"></i> Markdown
+<i class="fa fa-html5"></i> HTML
+<i class="fa fa-css3-alt"></i> CSS
+<i class="fa fa-markdown"></i> Markdown
 **Anaconda, Bokeh, Bootstrap, Flask, ggplot2, Heroku, Jupyter Notebook, Matplotlib, Numpy, Pandas, Plotly, Seaborn, Sklearn**
 
 
-#### 2019-02 - 2019-09
+### 2019-02 - 2019-09
 &nbsp;&nbsp;&nbsp;&nbsp;**Research Scientist** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;*IMV Inc., Dartmouth, NS*
 - Analyzed gene expression data from clinical trial participants and produced actionable insights for drug mechanism of action.
@@ -49,7 +49,7 @@ subtitle:
 {: #Ubuntu}
 **Anaconda, Bash, Bioconductor, ggplot2**  
 
-#### 2014-01 - 2018-04
+### 2014-01 - 2018-04
 &nbsp;&nbsp;&nbsp;&nbsp;**Research Associate and Bioinformatics Program Manager** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;*R.E.W. Hancock Lab, University of British Columbia, Vancouver, BC*
 - Supervised bioinformatics and RNA-Seq programs and maintained international collaborations.
@@ -67,17 +67,17 @@ subtitle:
 
 ## Education
 ---
-#### 2004-09 - 2009-03
+### 2004-09 - 2009-03
 &nbsp;&nbsp;&nbsp;&nbsp;**Doctor of Philosophy: Genetics** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;*University of British Columbia - Vancouver, BC*
 
-#### 1999-09 - 2004-04
+### 1999-09 - 2004-04
 &nbsp;&nbsp;&nbsp;&nbsp;**Bachelor of Science: Biochemistry and Molecular Biology** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;*Dalhousie University - Halifax, NS*
 
 ## Certificates
 ---
-#### 2021-05
+### 2021-05
 &nbsp;&nbsp;&nbsp;&nbsp;**Codecademy Data Scientist Career Path** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;[certificate](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Ecodecademy%2Ecom%2Fprofiles%2FmakemyDNA%2Fcertificates%2F5b520caa1d176d21f5a65a61&urlhash=Hv13&trk=public_profile-settings_see-credential)
 
