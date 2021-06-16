@@ -38,6 +38,7 @@ subtitle:
 - Supervised bioinformatics and RNA-Seq programs and maintained international collaborations.
 - Built and improved strategies for breaking down and analyzing complex data.
 - Utilized machine learning approaches to identify sets of genes driving disease etiology.
+- Conceived and coded a novel algorithm to discern gene expression signatures associated with two different diseases that have overlapping clinical presentations (this work has been [published](https://pubmed.ncbi.nlm.nih.gov/33692808/)) 
 
 ## Education
 ---
