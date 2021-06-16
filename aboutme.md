@@ -26,10 +26,8 @@ subtitle:
 - Troubleshooting problems using a breadth of computational and statistical knowledge for implementation of best practices.
 - Managing the Canadian COVID-19 Genomics Network (CanCOGeN) virus sequencing initiative by effectively resolving issues, diminishing obstacles and saving time.<br>
 **Languages / Frameworks**
-### <i class="fas fa-python" aria-hidden="true"></i> Python
-{: #Python}
-### <i class="fas fa-r-project" aria-hidden="true"></i> R
-{: #R}
+:fa-python: Python
+:fa-r-project: R
 ### <i class="fas fa-html5" aria-hidden="true"></i> HTML
 {: #HTML}
 ### <i class="fas fa-css3-alt" aria-hidden="true"></i> CSS
