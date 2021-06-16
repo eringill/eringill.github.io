@@ -27,10 +27,10 @@ subtitle:
 - Managing the Canadian COVID-19 Genomics Network (CanCOGeN) virus sequencing initiative by effectively resolving issues, diminishing obstacles and saving time.<br>
 
 **Languages / Frameworks**
-:fa-python: Python
-:fa-r-project: R
+<i class="fa fa-python"></i> Python
+<i class="fa fa-r-project"></i> R
 <i class="fa fa-html5"></i> HTML
-<i class="fa fa-css3-alt"></i> CSS
+<i class="fa fa-css3"></i> CSS
 <i class="fa fa-markdown"></i> Markdown
 **Anaconda, Bokeh, Bootstrap, Flask, ggplot2, Heroku, Jupyter Notebook, Matplotlib, Numpy, Pandas, Plotly, Seaborn, Sklearn**
 
