@@ -26,13 +26,13 @@ subtitle:
 - Troubleshooting problems using a breadth of computational and statistical knowledge for implementation of best practices.
 - Managing the Canadian COVID-19 Genomics Network (CanCOGeN) virus sequencing initiative by effectively resolving issues, diminishing obstacles and saving time.<br>
 
-**Languages / Frameworks**
-<i class="fa fa-python"></i> Python
-<i class="fa fa-r-project"></i> R
+**Languages / Frameworks:**
+<i class="fab fa-python"></i> Python
+<i class="fab fa-r-project"></i> R
 <i class="fa fa-html5"></i> HTML
 <i class="fa fa-css3"></i> CSS
-<i class="fa fa-markdown"></i> Markdown
-**Anaconda, Bokeh, Bootstrap, Flask, ggplot2, Heroku, Jupyter Notebook, Matplotlib, Numpy, Pandas, Plotly, Seaborn, Sklearn**
+<i class="fab fa-markdown"></i> Markdown,
+Anaconda, Bokeh, Bootstrap, Flask, ggplot2, Heroku, Jupyter Notebook, Matplotlib, Numpy, Pandas, Plotly, Seaborn, Sklearn
 
 
 ### 2019-02 - 2019-09
