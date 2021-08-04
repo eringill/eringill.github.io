@@ -18,6 +18,7 @@ navbar-links:
   About Me: "aboutme"
   Projects:
     - Canada COVID-19 Dashboard: "dashboard"
+    - Canadian COVID-19 Database: "database"
     - NLP Analysis of OK Cupid Profiles: "okcupid"
     - Factors Correlated with Age in US Police Shootings: "age"
     - Automated Outlier Detection: "outlierdetection"
