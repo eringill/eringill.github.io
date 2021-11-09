@@ -22,9 +22,12 @@ subtitle:
 ### 2020-02 - Current
 &nbsp;&nbsp;&nbsp;&nbsp;**Research Associate and Project Manager** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;*Simon Fraser University, Burnaby, BC*
-- Developing machine learning software in Python and R to automatically detect outliers in longitudinal data using multiple statistics strategies.
-- Troubleshooting problems using a breadth of computational and statistical knowledge for implementation of best practices.
-- Managing the Canadian COVID-19 Genomics Network (CanCOGeN) virus sequencing initiative by effectively resolving issues, diminishing obstacles and saving time.<br>
+- Troubleshooting problems using a breadth of computational and statistical knowledge for implementation of best practices and expanded improvement initiatives.
+- Developed and deployed a PostgreSQL database on AWS RDS to store Canadian SARS-CoV-2 case and sequencing information.
+- Developed and deployed an interactive dashboard on Heroku that implements an ETL pipeline to display live Canadian SARS-CoV-2 case and vaccination data.
+- Developed a ML software package in Python that automatically detects outliers in longitudinal data using multiple statistical strategies and forecasts future timepoints.
+- Analyzed BC socioeconomic and COVID-19 vaccination data from multiple sources.  Built and evaluated linear regression models to determine factors influencing vaccine uptake.
+<br>
 
 **Languages / Frameworks:**
 <i class="fab fa-python"></i> Python, 
@@ -39,7 +42,8 @@ Anaconda, Bokeh, Bootstrap, Flask, ggplot2, Heroku, Jupyter Notebook, Matplotlib
 &nbsp;&nbsp;&nbsp;&nbsp;**Research Scientist** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;*IMV Inc., Dartmouth, NS*
 - Analyzed gene expression data from clinical trial participants and produced actionable insights for drug mechanism of action.
-- Led team of 5-6 research associates in vaccine development projects and successfully met all key milestones.<br>
+- Led team of 5-6 research associates in vaccine development projects and successfully met all key milestones.
+<br>
 
 **Languages / Frameworks:**
 <i class="fab fa-r-project"></i> R, 
@@ -51,9 +55,9 @@ Anaconda, Bash, Bioconductor, ggplot2
 &nbsp;&nbsp;&nbsp;&nbsp;**Research Associate and Bioinformatics Program Manager** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;*R.E.W. Hancock Lab, University of British Columbia, Vancouver, BC*
 - Supervised bioinformatics and RNA-Seq programs and maintained international collaborations.
-- Built and improved strategies for breaking down and analyzing complex data.
+- Built and improved pipelines for breaking down and analyzing complex data.
 - Utilized machine learning approaches to identify sets of genes driving disease etiology.
-- Conceived and coded a novel algorithm to discern gene expression signatures associated with two different diseases that have overlapping clinical presentations (this work has been [published](https://pubmed.ncbi.nlm.nih.gov/33692808/))<br> 
+- Developed a novel algorithm to identify gene expression signatures associated with diseases that have overlapping symptomologies, thus enabling greater diagnostic accuracy. This work has been [published](https://pubmed.ncbi.nlm.nih.gov/33692808/))<br> 
 
 **Languages / Frameworks**
 <i class="fab fa-r-project"></i> R, 
@@ -73,6 +77,14 @@ Anaconda, Bash, Bioconductor, Caret, ggplot2
 
 ## Certificates
 ---
+### 2021-11
+&nbsp;&nbsp;&nbsp;&nbsp;**Codecademy Learn Intermediate Python 3** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;[certificate](https://www.codecademy.com/profiles/makemyDNA/certificates/18580789eaba28f09e116f4fc2acec44)
+
+### 2021-07
+&nbsp;&nbsp;&nbsp;&nbsp;**Codecademy Design Databases With PostgreSQL Skill Path** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;[certificate](https://www.codecademy.com/profiles/makemyDNA/certificates/5f64e3b492de0000131ecbe0)
+
 ### 2021-05
 &nbsp;&nbsp;&nbsp;&nbsp;**Codecademy Data Scientist Career Path** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;[certificate](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Ecodecademy%2Ecom%2Fprofiles%2FmakemyDNA%2Fcertificates%2F5b520caa1d176d21f5a65a61&urlhash=Hv13&trk=public_profile-settings_see-credential)
