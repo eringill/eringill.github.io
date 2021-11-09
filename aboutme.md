@@ -37,7 +37,8 @@ subtitle:
 <i class="fa fa-html5"></i> HTML, 
 <i class="fa fa-css3"></i> CSS, 
 <i class="fab fa-markdown"></i> Markdown,
-Anaconda, Bokeh, Bootstrap, Flask, ggplot2, Heroku, Jupyter Notebook, Matplotlib, Numpy, Pandas, Plotly, Seaborn, Sklearn
+<i class="fab fa-aws"></i> Amazon Web Services (AWS),
+Anaconda, Bokeh, Bootstrap, Flask, ggplot2, Heroku, Jupyter Notebook, Matplotlib, Numpy, Pandas, Plotly, Seaborn, Sklearn, SQL
 
 
 ### 2019-02 - 2019-09
