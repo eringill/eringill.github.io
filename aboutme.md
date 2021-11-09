@@ -4,6 +4,8 @@ title: About me
 subtitle: 
 ---
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+## [View Resume]()
+
 ## Tech Stack
 ---
 
